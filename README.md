@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/israelmarques1024-dotcom/karnel-termux/main/assets/images/karnel-logo.png" alt="Karnel Termux" width="300">
+  <img src="https://raw.githubusercontent.com/karnel-termuxOFC/karnel-termux/main/assets/images/karnel-logo.png" alt="Karnel Termux" width="300">
 </p>
 
 <p align="center">
-  <strong>Registry oficial de plugins revisados do <a href="https://github.com/israelmarques1024-dotcom/karnel-termux">Karnel Termux</a></strong>
+  <strong>Registry oficial de plugins revisados do <a href="https://github.com/karnel-termuxOFC/karnel-termux">Karnel Termux</a></strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/israelmarques1024-dotcom/karnel-plugins/blob/main/registry.json">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisraelmarques1024-dotcom%2Fkarnel-plugins%2Fmain%2Fregistry.json&amp;query=%24.plugins.length&amp;label=plugins&amp;color=0078D4&amp;style=for-the-badge" alt="Plugin count">
+  <a href="https://github.com/karnel-termuxOFC/karnel-plugins/blob/main/registry.json">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkarnel-termuxOFC%2Fkarnel-plugins%2Fmain%2Fregistry.json&amp;query=%24.plugins.length&amp;label=plugins&amp;color=0078D4&amp;style=for-the-badge" alt="Plugin count">
   </a>
   <a href="CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/contributions-reviewed-brightgreen?style=for-the-badge" alt="Reviewed contributions">
