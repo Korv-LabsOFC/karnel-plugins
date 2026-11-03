@@ -139,3 +139,9 @@ O workflow de CI valida JSON, schema semântico, nomes, comandos e repositórios
 únicos, colisões com comandos nativos, SemVer, acessibilidade do repositório,
 manifest correspondente, licença, symlinks, checksum de payload, Bash syntax e
 ShellCheck sem executar o código do plugin.
+
+---
+
+## KORV Labs
+
+This project is part of the **KORV Labs** ecosystem — an independent technology lab building software, developer tools, and digital products.
